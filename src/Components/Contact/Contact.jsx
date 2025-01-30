@@ -40,7 +40,7 @@ const Contact = () => {
         important to us as we strive to provide exceptional service service to our 
         university community.</p>
         <ul>
-            <li><img src={mail_icon} alt="" />Contact@GreatStack.com</li>
+            <li><img src={mail_icon} alt="" />Contact@educity90.com</li>
             <li><img src={phone_icon} alt="" />+1 123-456-7890</li>
             <li><img src={location_icon} alt="" />77 Massachusetts Ave, Cambridgebr <br /> MA 02139, united States</li>
 
